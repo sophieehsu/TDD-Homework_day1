@@ -1,0 +1,5 @@
+D:\Desktop\Homework_day1\PageSum\bin\Debug\PageSum.dll
+D:\Desktop\Homework_day1\PageSum\bin\Debug\PageSum.pdb
+D:\Desktop\Homework_day1\PageSum\obj\Debug\PageSum.csprojResolveAssemblyReference.cache
+D:\Desktop\Homework_day1\PageSum\obj\Debug\PageSum.dll
+D:\Desktop\Homework_day1\PageSum\obj\Debug\PageSum.pdb

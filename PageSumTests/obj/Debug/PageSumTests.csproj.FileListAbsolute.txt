@@ -1,0 +1,10 @@
+D:\Desktop\Homework_day1\PageSumTests\bin\Debug\PageSumTests.dll
+D:\Desktop\Homework_day1\PageSumTests\bin\Debug\PageSumTests.pdb
+D:\Desktop\Homework_day1\PageSumTests\bin\Debug\ExpectedObjects.dll
+D:\Desktop\Homework_day1\PageSumTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Desktop\Homework_day1\PageSumTests\bin\Debug\PageSum.dll
+D:\Desktop\Homework_day1\PageSumTests\bin\Debug\PageSum.pdb
+D:\Desktop\Homework_day1\PageSumTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Desktop\Homework_day1\PageSumTests\obj\Debug\PageSumTests.csprojResolveAssemblyReference.cache
+D:\Desktop\Homework_day1\PageSumTests\obj\Debug\PageSumTests.dll
+D:\Desktop\Homework_day1\PageSumTests\obj\Debug\PageSumTests.pdb
